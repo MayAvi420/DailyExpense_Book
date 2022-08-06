@@ -1,0 +1,18 @@
+.header{
+    margin: 15px auto;
+    text-align: center;
+    border: 2px solid rgb(129, 123, 123);
+    border-radius: 34px;
+    width: 350px;
+    height:100px;
+    /* margin: auto; */
+    box-shadow: 0.7px 0.7px 2.4px rgb(33, 68, 87);
+
+}
+div h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(188, 82, 75);
+    text-shadow: 1px 1px 1.4px rgb(13, 7, 7);
+    font-size: 56px;
+    margin-top: 10px;
+}

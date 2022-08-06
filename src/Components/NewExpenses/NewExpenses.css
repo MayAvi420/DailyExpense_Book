@@ -1,0 +1,42 @@
+.new-expense {
+  background:url('C:\Users\avina\Desktop\React\mayankavi\src\Images\image3.jpg') no-repeat center center/cover;
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.new-expense button {
+  font: inherit;
+  font-weight: 900;
+  font-size: larger;
+  cursor: pointer;
+  padding: 0.6rem 1.2rem;
+  border: 1px solid #40005d;
+  background-color: #e1a712;
+  color: white;
+  border-radius: 12px;
+  margin-right: 1rem;
+  box-shadow: 2px 2px 3px rgb(20, 138, 235);
+  text-shadow: 2px 2px 2px rgb(173, 13, 13);
+}
+
+.new-expense button:hover,
+.new-expense button:active {
+  background-color: #a313e5;
+  border-color: #510674;
+}
+
+.new-expense button.alternative {
+  color: #220131;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.new-expense button.alternative:hover,
+.new-expense button.alternative:active {
+  background-color: #f8f6f9;
+}
